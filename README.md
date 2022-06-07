@@ -11,7 +11,7 @@ As a student, i was involved/exposed with a lot of industrial/technical cases re
 
 <hr />
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 
 - Backend Language: 
   - C# Asp .Net
@@ -34,7 +34,7 @@ As a student, i was involved/exposed with a lot of industrial/technical cases re
 
 <hr />
 
-📫 How to reach me:
+### 📫 How to reach me:
 - Email: ahmadraziqdanish@gmail.com
 - LinkedIn: https://www.linkedin.com/in/raziq-danish-2aa3091b8/
 
