@@ -17,8 +17,10 @@ As a student, i was involved/exposed with a lot of industrial/technical cases re
   - C# Asp .Net
   - Laravel PHP
   - Python Flask
+  - NodeJS (TypeScript)
 
 - Frontend Library:
+  - ReactJS (TypeScript)
   - Bootstrap
   - Tailwind
   - jQuery
@@ -31,6 +33,11 @@ As a student, i was involved/exposed with a lot of industrial/technical cases re
 - DB:
   - MongoDB
   - MySQL
+  - PostgreSQL
+
+- External Framework / Service:
+  - Redis (Cache)
+  - Redmine (Scrum)
 
 <hr />
 
