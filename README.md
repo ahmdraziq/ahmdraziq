@@ -26,6 +26,11 @@ As a student, i was involved/exposed with a lot of industrial/technical cases re
   - jQuery
   - Vue.js
 
+- Mobile Framework:
+  - React Native / Expo
+  - Flutter
+  - Xamarin
+
 - Server:
   - AWS
   - Laravel Forge
